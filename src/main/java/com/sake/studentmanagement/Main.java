@@ -1,9 +1,8 @@
-package com.sake;
+package com.sake.studentmanagement;
 
 import com.sake.studentmanagement.dao.StudentDao;
 import com.sake.studentmanagement.entity.Student;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
